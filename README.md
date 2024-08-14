@@ -1,3 +1,3 @@
 ## Now My_Portfolio is live, so go and check it... 
 
-https://my-portfolio-app-jet.vercel.app/
+https://anup-portfolio-app.vercel.app/
