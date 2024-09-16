@@ -209,7 +209,28 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 10,
+    title: "Note_Zipper App",
+    date: "September 2024 - September 2024",
+    description:
+      "NoteZipper is a web application designed to manage and organize notes efficiently. It allows users to create, update, delete, and categorize notes, with authentication and authorization handled via JWT. Built with React for the frontend, Redux for state management, and Node.js with Express for the backend, it ensures smooth performance and secure handling of user data. The tech stack includes MongoDB, Express.js, React.js, Node.js, and Postman for API testing and used MongoDB Atlas providing a scalable and reliable cloud database.",
+    image: "https://i.ibb.co/VSJVxbk/Notezipper-mainpage.png",
+    tags: [
+      "MongoDB Atlas",
+      "Express.Js",
+      "React.Js",
+      "Node.Js",
+      "JavaScript",
+      "JWT",
+      "Redux",
+      "React Bootstrap",
+    ],
+    category: "web app",
+    github: "https://github.com/Anup1603/Note_Zipper_Frontend",
+    webapp: "https://anup-notezipper.netlify.app/",
+  },
+  {
+    id: 1,
     title: "Tech-Byte",
     date: "July 2024 - July 2024",
     description:
@@ -229,7 +250,7 @@ export const projects = [
     webapp: "https://tech-byte-app.vercel.app/",
   },
   {
-    id: 0,
+    id: 2,
     title: "User Management System",
     date: "July 2024 - July 2024",
     description:
@@ -241,7 +262,7 @@ export const projects = [
     webapp: "https://mern-userinfo-app.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
     title: "REST API for E-commerce Platform.",
     date: "June 2024 - June 2024",
     description:
@@ -253,7 +274,7 @@ export const projects = [
     webapp: "https://restapi-host.onrender.com/api/products",
   },
   {
-    id: 2,
+    id: 4,
     title: "TODO React-App",
     date: "May 2024 - May 2024",
     description:
@@ -265,7 +286,7 @@ export const projects = [
     webapp: "https://todoapp-react-anup.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     title: "React Weather App",
     date: "March 2024 - March 2024",
     description:
@@ -277,7 +298,7 @@ export const projects = [
     webapp: "https://weatherappanup.netlify.app/",
   },
   {
-    id: 10,
+    id: 6,
     title: "Resume Maker",
     date: "March 2023 - March 2023",
     description:
@@ -289,7 +310,7 @@ export const projects = [
     webapp: "https://resumemaker-anup.netlify.app/",
   },
   {
-    id: 4,
+    id: 7,
     title: "Expense Tracker",
     date: "April 2024 - April 2024",
     description:
@@ -301,7 +322,7 @@ export const projects = [
     webapp: "https://expensetracker-react-anup.netlify.app/",
   },
   {
-    id: 5,
+    id: 8,
     title: "Bankist Application",
     date: "Feb 2023 - Feb 2023",
     description:
@@ -313,7 +334,7 @@ export const projects = [
     webapp: "https://bankist-app-anup.netlify.app/",
   },
   {
-    id: 6,
+    id: 9,
     title: "Dice Game",
     date: "Dec 2022 - Dec 2022",
     description:
