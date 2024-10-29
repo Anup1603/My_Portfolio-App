@@ -1,7 +1,6 @@
 export const Bio = {
   name: "Anup Kumar Shaw",
   roles: [
-    "GCP Associated Cloud Engineer",
     "Full Stack Developer",
     "Problem Solver",
     "UI/UX Designer",
